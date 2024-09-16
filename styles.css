@@ -1,0 +1,664 @@
+body {
+    background-color: #287306;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1019' height='1019' viewBox='0 0 800 800'%3E%3Cg fill='none' stroke-opacity='0.63'%3E%3Cg stroke='%23000000' stroke-width='17'%3E%3Cline x1='-8' y1='-8' x2='808' y2='808'/%3E%3Cline x1='-8' y1='792' x2='808' y2='1608'/%3E%3Cline x1='-8' y1='-808' x2='808' y2='8'/%3E%3C/g%3E%3Cg stroke='%23111111' stroke-width='16'%3E%3Cline x1='-8' y1='767' x2='808' y2='1583'/%3E%3Cline x1='-8' y1='17' x2='808' y2='833'/%3E%3Cline x1='-8' y1='-33' x2='808' y2='783'/%3E%3Cline x1='-8' y1='-783' x2='808' y2='33'/%3E%3C/g%3E%3Cg stroke='%231c1c1c' stroke-width='15'%3E%3Cline x1='-8' y1='742' x2='808' y2='1558'/%3E%3Cline x1='-8' y1='42' x2='808' y2='858'/%3E%3Cline x1='-8' y1='-58' x2='808' y2='758'/%3E%3Cline x1='-8' y1='-758' x2='808' y2='58'/%3E%3C/g%3E%3Cg stroke='%23262626' stroke-width='14'%3E%3Cline x1='-8' y1='67' x2='808' y2='883'/%3E%3Cline x1='-8' y1='717' x2='808' y2='1533'/%3E%3Cline x1='-8' y1='-733' x2='808' y2='83'/%3E%3Cline x1='-8' y1='-83' x2='808' y2='733'/%3E%3C/g%3E%3Cg stroke='%23313131' stroke-width='13'%3E%3Cline x1='-8' y1='92' x2='808' y2='908'/%3E%3Cline x1='-8' y1='692' x2='808' y2='1508'/%3E%3Cline x1='-8' y1='-108' x2='808' y2='708'/%3E%3Cline x1='-8' y1='-708' x2='808' y2='108'/%3E%3C/g%3E%3Cg stroke='%233c3c3c' stroke-width='12'%3E%3Cline x1='-8' y1='667' x2='808' y2='1483'/%3E%3Cline x1='-8' y1='117' x2='808' y2='933'/%3E%3Cline x1='-8' y1='-133' x2='808' y2='683'/%3E%3Cline x1='-8' y1='-683' x2='808' y2='133'/%3E%3C/g%3E%3Cg stroke='%23484848' stroke-width='11'%3E%3Cline x1='-8' y1='642' x2='808' y2='1458'/%3E%3Cline x1='-8' y1='142' x2='808' y2='958'/%3E%3Cline x1='-8' y1='-158' x2='808' y2='658'/%3E%3Cline x1='-8' y1='-658' x2='808' y2='158'/%3E%3C/g%3E%3Cg stroke='%23545454' stroke-width='10'%3E%3Cline x1='-8' y1='167' x2='808' y2='983'/%3E%3Cline x1='-8' y1='617' x2='808' y2='1433'/%3E%3Cline x1='-8' y1='-633' x2='808' y2='183'/%3E%3Cline x1='-8' y1='-183' x2='808' y2='633'/%3E%3C/g%3E%3Cg stroke='%23606060' stroke-width='9'%3E%3Cline x1='-8' y1='592' x2='808' y2='1408'/%3E%3Cline x1='-8' y1='192' x2='808' y2='1008'/%3E%3Cline x1='-8' y1='-608' x2='808' y2='208'/%3E%3Cline x1='-8' y1='-208' x2='808' y2='608'/%3E%3C/g%3E%3Cg stroke='%236c6c6c' stroke-width='8'%3E%3Cline x1='-8' y1='567' x2='808' y2='1383'/%3E%3Cline x1='-8' y1='217' x2='808' y2='1033'/%3E%3Cline x1='-8' y1='-233' x2='808' y2='583'/%3E%3Cline x1='-8' y1='-583' x2='808' y2='233'/%3E%3C/g%3E%3Cg stroke='%23797979' stroke-width='7'%3E%3Cline x1='-8' y1='242' x2='808' y2='1058'/%3E%3Cline x1='-8' y1='542' x2='808' y2='1358'/%3E%3Cline x1='-8' y1='-558' x2='808' y2='258'/%3E%3Cline x1='-8' y1='-258' x2='808' y2='558'/%3E%3C/g%3E%3Cg stroke='%23868686' stroke-width='6'%3E%3Cline x1='-8' y1='267' x2='808' y2='1083'/%3E%3Cline x1='-8' y1='517' x2='808' y2='1333'/%3E%3Cline x1='-8' y1='-533' x2='808' y2='283'/%3E%3Cline x1='-8' y1='-283' x2='808' y2='533'/%3E%3C/g%3E%3Cg stroke='%23939393' stroke-width='5'%3E%3Cline x1='-8' y1='292' x2='808' y2='1108'/%3E%3Cline x1='-8' y1='492' x2='808' y2='1308'/%3E%3Cline x1='-8' y1='-308' x2='808' y2='508'/%3E%3Cline x1='-8' y1='-508' x2='808' y2='308'/%3E%3C/g%3E%3Cg stroke='%23a1a1a1' stroke-width='4'%3E%3Cline x1='-8' y1='467' x2='808' y2='1283'/%3E%3Cline x1='-8' y1='317' x2='808' y2='1133'/%3E%3Cline x1='-8' y1='-333' x2='808' y2='483'/%3E%3Cline x1='-8' y1='-483' x2='808' y2='333'/%3E%3C/g%3E%3Cg stroke='%23aeaeae' stroke-width='3'%3E%3Cline x1='-8' y1='342' x2='808' y2='1158'/%3E%3Cline x1='-8' y1='442' x2='808' y2='1258'/%3E%3Cline x1='-8' y1='-458' x2='808' y2='358'/%3E%3Cline x1='-8' y1='-358' x2='808' y2='458'/%3E%3C/g%3E%3Cg stroke='%23bcbcbc' stroke-width='2'%3E%3Cline x1='-8' y1='367' x2='808' y2='1183'/%3E%3Cline x1='-8' y1='417' x2='808' y2='1233'/%3E%3Cline x1='-8' y1='-433' x2='808' y2='383'/%3E%3Cline x1='-8' y1='-383' x2='808' y2='433'/%3E%3C/g%3E%3Cg stroke='%23CACACA' stroke-width='1'%3E%3Cline x1='-8' y1='392' x2='808' y2='1208'/%3E%3Cline x1='-8' y1='-408' x2='808' y2='408'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+}
+
+:root {
+    --beast-green: rgb(154, 224, 48);;
+    --drop-down-color: hsl(112, 66%, 55%);
+
+}
+
+.banner_container {
+    display: flex;
+    background-image: url('file:///Users/joshaskew/Downloads/Ice.jpg');
+    font-size: 16px;
+    padding: 8px;
+    filter: brightness(70%);
+    height: 50px;
+}
+
+.home {
+    margin-top: 4px;
+    font-size: 18px;
+    font-family: "Gill Sans", sans-serif;
+    color: black;
+}
+
+.home a {
+    color: black;
+}
+
+.log_in {
+    margin: 8px 22px;
+    font-size: 18px;
+    font-family: "Gill Sans", sans-serif;
+    color: black;
+}
+
+.log_in a {
+    color: black;
+}
+
+.sign_up {
+    margin: 8px;
+    font-size: 18px;
+    font-family: "Gill Sans", sans-serif;
+    color: black;
+
+}
+
+.sign_up a {
+    color: black;
+}
+
+#beast_hockey {
+    text-align: center;
+    color: var(--beast-green);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100px;
+    text-shadow: 7px 5px 8px black;
+
+}
+
+.learn_more {
+    display: flex;
+    flex-grow: inherit;
+    justify-content: center;
+    margin-bottom: -15px;
+    margin-top: 50px;
+}
+
+.hockey_board {
+    height: auto;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.learn_more_direct {
+    font-size: 26px;
+    font-weight: bold;
+    color: var(--beast-green);
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 7px 5px 8px black;
+}
+
+.wrapper {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 10%;
+    margin-top: -50px;
+    margin-bottom: 15px;
+}
+
+.about {
+    position: relative;
+    display: inline-block;
+}
+
+.button {
+    align-items: center;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #48f226 0, #098e0b 100%);
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono", monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s, transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow, transform;
+    font-size: 18px;
+}
+
+.button:focus {
+    box-shadow: #affeb3 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #affeb3 0 -3px 0 inset;
+}
+
+.button:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #affeb3 0 -3px 0 inset;
+    transform: translateY(-2px);
+}
+
+.about:active {
+    box-shadow: #3c4fe0 0 3px 7px inset;
+    transform: translateY(3px);
+}
+
+.about_content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    font-size: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    width: 200px;
+    padding: 10px;
+    top: 100%;
+    border: none;
+}
+
+.about:hover .about_content {
+    display: block;
+}
+
+.about_content a {
+    display: block;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    background-color: var(--drop-down-color);
+
+}
+
+.about_content a:hover {
+    background-color: black;
+    color: white;
+
+}
+
+.programs {
+    position: relative;
+    display: inline-block;
+}
+
+.programs:active {
+    box-shadow: #affeb3 0 3px 7px inset;
+    transform: translateY(2px);
+}
+
+.programs_content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    font-size: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    width: 200px;
+    padding: 10px;
+    top: 100%;
+    border: none;
+}
+
+.programs:hover .programs_content {
+    display: block;
+}
+
+.programs_content a {
+    display: block;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    background-color: var(--drop-down-color);
+}
+
+.programs_content a:hover {
+    background-color: black;
+    color: white;
+}
+
+.schedual {
+    position: relative;
+    display: inline-block;
+}
+
+.about:active {
+    box-shadow: #affeb3 0 3px 7px inset;
+    transform: translateY(2px);
+}
+
+.teams {
+    position: relative;
+    display: inline-block;
+}
+
+.teams_content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    font-size: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    width: 200px;
+    padding: 10px;
+    top: 100%;
+    border: none;
+}
+
+.teams:hover .teams_content {
+    display: block;
+}
+
+.teams_content a {
+    display: block;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    background-color: var(--drop-down-color);
+}
+
+.teams_content a:hover {
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+}
+
+.resources {
+    position: relative;
+    display: inline-block;
+}
+
+.resources:active {
+    box-shadow: #3c4fe0 0 3px 7px inset;
+    transform: translateY(2px);
+}
+
+.resources_content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    font-size: 22px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    width: 200px;
+    padding: 10px;
+    top: 100%;
+    border: none;
+}
+
+.resources:hover .resources_content {
+    display: block;
+}
+
+.resources_content a {
+    display: block;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    background-color:var(--drop-down-color);
+
+}
+
+.resources_content a:hover {
+    background-color: black;
+    color: white;
+
+}
+
+.link_wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-content: space-evenly;
+    align-items: center;
+    gap: 10%;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+
+}
+
+.register_pic {
+    border-radius: 20px;
+}
+
+.register_pic:hover {
+    filter: grayscale(100%);
+}
+
+.summer {
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.summer:hover {
+    filter: grayscale(100%);
+}
+
+.sweatshirt {
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.sweatshirt:hover {
+    filter: grayscale(100%)
+}
+
+.hours {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-content: space-evenly;
+    align-items: center;
+    background-color: #48f226;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 50px;
+}
+
+.hours_grid {
+    text-align: center;
+    border: thick double white;
+}
+
+footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 60px;
+    font-size: 16px;
+}
+
+.policy {
+    color: white;
+    margin-left: 22px;
+    margin-right: 22px;
+}
+
+.ian_cody_pic {
+    width: 800px;
+    height: auto;
+    border-radius: 50px;
+    box-shadow: 15px 11px 11px black;
+}
+
+.about_header {
+    display: flex;
+    justify-content: center;
+    font-size: 85px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-shadow: 7px 5px 8px black;
+    color: white;
+    text-decoration: underline;
+}
+
+.about_statement {
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.3;
+    color: white;
+    text-shadow: 7px 5px 8px black;
+    width: 700px;
+    margin: 0 auto;
+
+}
+
+.ian_cody {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.coaches_wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.coaches {
+    text-align: center;
+    line-height: 1.5;
+    font-size: 18px;
+    color: white;
+    text-shadow: 7px 5px 8px black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.coaches_pics {
+    display: block;
+    justify-content: center;
+    padding-left: 130px;
+}
+
+h3 {
+    color: white;
+    font-size: 22px;
+    text-shadow: 7px 5px 8px black;
+    text-decoration: underline;
+}
+
+h4 {
+    color: white;
+    font-size: 18px;
+    text-shadow: 7px 5px 8px black;
+    text-decoration: underline;
+}
+
+.cody {
+    text-align: left;
+    padding-left: 50px;
+    padding-bottom: 200px;
+}
+
+.cody_pic {
+    width: 400px;
+    height: auto;
+    margin-bottom: 200px;
+    border-radius: 50px;
+    box-shadow: 15px 11px 11px black;
+}
+
+.ian_pic {
+    width: 400px;
+    height: auto;
+    margin-bottom: 200px;
+    margin-top: 100px;
+    border-radius: 50px;
+    box-shadow: 15px 11px 11px black;
+}
+
+.ian {
+    padding-bottom: 200px;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.chad_pic {
+    width: 400px;
+    height: auto;
+    margin-bottom: 180px;
+    margin-top: 80px;
+    border-radius: 50px;
+    box-shadow: 15px 11px 11px black;
+}
+
+.chad {
+    padding-bottom: 200px;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.brent_pic {
+    width: 400px;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 160px;
+    border-radius: 50px;
+    box-shadow: 15px 11px 11px black;
+}
+
+.brent {
+    padding-bottom: 300px;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.scott_pic {
+    width: 400px;
+    height: auto;
+    margin-bottom: 150px;
+    border-radius: 50px;
+    box-shadow: 15px 11px 11px black;
+}
+
+.scott {
+    padding-bottom: 300px;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.josh_pic {
+    width: 400px;
+    height: auto;
+    margin-bottom: 150px;
+    border-radius: 50px;
+    box-shadow: 15px 11px 11px black;
+}
+
+.josh {
+    padding-bottom: 150px;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.contact_header {
+    display: flex;
+    justify-content: center;
+    font-size: 85px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-shadow: 7px 5px 8px black;
+    color: white;
+    text-decoration: underline;
+}
+
+.contact_info {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.email {
+    display: flex;
+    justify-content: center;
+}
+
+.calendar-container {
+    width: 80%;
+    max-width: 700px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .calendar-header {
+    background-color:#48f226;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 26px;
+    font-weight: bold;
+  }
+  
+  .calendar-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: auto 100px;
+    gap: 1px;
+    background-color: #dddddd;
+  }
+  
+  .calendar-day-header {
+    background-color:#48f226;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid #dddddd;
+  }
+  
+  .calendar-day {
+    position: relative;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    color: #333333;
+  }
+  
+  .date-number {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 30px;
+  }
+
+  .twenty25_header {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: #fff;
+    text-shadow: 7px 5px 8px black;
+  }
+
+  .twenty14_header {
+    display: flex;
+    justify-content:center;
+  }
+  
+  .roster_header {
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    color: #fff;
+    text-shadow: 7px 5px 8px black;
+  }
+
+  .kids_2014 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+    justify-items: center;
+    grid-row-gap: 100px;
+  }
+
+  .kids_pic {
+    width: 300px;
+    border-radius: 50%;
+    transition: box-shadow .1s ease-in-out;
+  }
+  
+  .kids_pic:hover {
+    box-shadow: 0 0 33px white;
+  }
+
+  figcaption {
+    text-align: center;
+    color: white;
+    text-shadow: 7px 5px 8px black;
+    font-size: 33px;
+    font-style: italic;
+
+  }
+
